@@ -1,0 +1,496 @@
+Common Name                    ,Scientific Name                ,Review Codes                      ,Notations
+Black-bellied Whistling-Duck   ,Dendrocygna autumnalis         ,N
+Fulvous Whistling-Duck         ,D. bicolor                     ,N
+Snow Goose                     ,Anser caerulescens
+Ross's Goose                   ,A. rossii
+Greater White-fronted Goose    ,A. albifrons
+Pink-footed Goose              ,A. brachyrhynchus              ,N
+Brant                          ,Branta bernicla
+Barnacle Goose                 ,B. leucopsis                   ,U
+Cackling Goose                 ,B. hutchinsii
+Canada Goose                   ,B. canadensis                  ,                                  ,*
+Mute Swan                      ,Cygnus olor                    ,I                                 ,*
+Trumpeter Swan                 ,C. buccinator                  ,D
+Tundra Swan                    ,C. columbianus
+Wood Duck                      ,Aix sponsa                     ,                                  ,*
+Garganey                       ,Spatula querquedula            ,N
+Blue-winged Teal               ,S. discors                     ,                                  ,*
+Cinnamon Teal                  ,S. cyanoptera                  ,N
+Northern Shoveler              ,S. clypeata                    ,                                  ,*
+Gadwall                        ,Mareca strepera                ,                                  ,*
+Eurasian Wigeon                ,M. penelope
+American Wigeon                ,M. americana                   ,                                  ,*
+Mallard                        ,Anas platyrhynchos             ,                                  ,*
+American Black Duck            ,A. rubripes                    ,                                  ,*
+Northern Pintail               ,A. acuta                       ,                                  ,*
+Green-winged Teal              ,A. crecca                      ,                                  ,*
+Canvasback                     ,Aythya valisineria             ,                                  ,*
+Redhead                        ,A. americana                   ,                                  ,*
+Ring-necked Duck               ,A. collaris                    ,                                  ,*
+Tufted Duck                    ,A. fuligula                    ,U
+Greater Scaup                  ,A. marila
+Lesser Scaup                   ,A. affinis                     ,                                  ,*
+King Eider                     ,Somateria spectabilis
+Common Eider                   ,S. mollissima                  ,U                                 ,*
+Harlequin Duck                 ,Histrionicus histrionicus
+Labrador Duck                  ,Camptorhynchus labradorius     ,                                  ,+
+Surf Scoter                    ,Melanitta perspicillata
+White-winged Scoter            ,M. deglandi
+Black Scoter                   ,M. americana
+Long-tailed Duck               ,Clangula hyemalis
+Bufflehead                     ,Bucephala albeola
+Common Goldeneye               ,B. clangula                    ,                                  ,*
+Barrow's Goldeneye             ,B. islandica
+Smew                           ,Mergellus albellus             ,N
+Hooded Merganser               ,Lophodytes cucullatus          ,                                  ,*
+Common Merganser               ,Mergus merganser               ,                                  ,*
+Red-breasted Merganser         ,M. serrator                    ,                                  ,*
+Ruddy Duck                     ,Oxyura jamaicensis             ,                                  ,*
+Northern Bobwhite              ,Colinus virginianus            ,                                  ,*
+Wild Turkey                    ,Meleagris gallopavo            ,                                  ,*
+Ruffed Grouse                  ,Bonasa umbellus                ,                                  ,*
+Spruce Grouse                  ,Falcipennis canadensis         ,A                                 ,*
+Willow Ptarmigan               ,Lagopus lagopus                ,N
+Greater Prairie-Chicken        ,Tympanuchus cupido             ,E
+Gray Partridge                 ,Perdix perdix                  ,I; N                              ,*
+Ring-necked Pheasant           ,Phasianus colchicus            ,I                                 ,*
+Pied-billed Grebe              ,Podilymbus podiceps            ,                                  ,*
+Horned Grebe                   ,Podiceps auritus
+Red-necked Grebe               ,P. grisegena
+Eared Grebe                    ,P. nigricollis
+Western Grebe                  ,Aechmophorus occidentalis      ,N
+Clark's Grebe                  ,Aechmophorus clarkii           ,N
+Rock Pigeon                    ,Columba livia                  ,I                                 ,*
+Band-tailed Pigeon             ,Patagioenas fasciata           ,N
+Eurasian Collared-Dove         ,Streptopelia decaocto          ,N
+Passenger Pigeon               ,Ectopistes migratorius         ,                                  ,+*
+Inca Dove                      ,Columbina inca                 ,N
+Common Ground Dove             ,Columbina passerina            ,N
+White-winged Dove              ,Zenaida asiatica               ,N
+Mourning Dove                  ,Z. macroura                    ,                                  ,*
+Yellow-billed Cuckoo           ,Coccyzus americanus            ,                                  ,*
+Black-billed Cuckoo            ,C. erythropthalmus             ,                                  ,*
+Common Nighthawk               ,Chordeiles minor               ,                                  ,*
+Chuck-will's-widow             ,Antrostomus carolinensis       ,U                                 ,*
+Eastern Whip-poor-will         ,A. vociferus                   ,                                  ,*
+Chimney Swift                  ,Chaetura pelagica              ,                                  ,*
+Ruby-throated Hummingbird      ,Archilochus colubris           ,                                  ,*
+Anna's Hummingbird             ,Calypte anna                   ,N
+Calliope Hummingbird           ,Selasphorus calliope           ,N
+Rufous Hummingbird             ,S. rufus                       ,N
+Broad-billed Hummingbird       ,Cynanthus latirostris          ,N
+Clapper Rail                   ,Rallus crepitans               ,U                                 ,*
+King Rail                      ,R. elegans                     ,N                                 ,*
+Virginia Rail                  ,R. limicola                    ,                                  ,*
+Corn Crake                     ,Crex crex                      ,N
+Sora                           ,Porzana carolina               ,                                  ,*
+Common Gallinule               ,Gallinula galeata              ,                                  ,*
+American Coot                  ,Fulica americana               ,                                  ,*
+Purple Gallinule               ,Porphyrio martinicus           ,N
+Azure Gallinule                ,P. flavirostris                ,N
+Yellow Rail                    ,Coturnicops noveboracensis     ,N
+Black Rail                     ,Laterallus jamaicensis         ,N                                 ,*
+Sandhill Crane                 ,Antigone canadensis            ,                                  ,*
+Black-necked Stilt             ,Himantopus mexicanus           ,N
+American Avocet                ,Recurvirostra americana
+American Oystercatcher         ,Haematopus palliatus           ,U                                 ,*
+Northern Lapwing               ,Vanellus vanellus              ,N
+Black-bellied Plover           ,Pluvialis squatarola
+American Golden-Plover         ,P. dominica
+Pacific Golden-Plover          ,P. fulva                       ,N
+Killdeer                       ,Charadrius vociferus           ,                                  ,*
+Common Ringed Plover           ,C. hiaticula                   ,N
+Semipalmated Plover            ,C. semipalmatus
+Piping Plover                  ,C. melodus                     ,U                                 ,*
+Wilson's Plover                ,C. wilsonia                    ,N
+Upland Sandpiper               ,Bartramia longicauda           ,                                  ,*
+Whimbrel                       ,Numenius phaeopus
+Eskimo Curlew                  ,N. borealis                    ,E
+Long-billed Curlew             ,N. americanus                  ,N
+Eurasian Curlew                ,N. arquata                     ,N
+Bar-tailed Godwit              ,Limosa lapponica               ,N
+Black-tailed Godwit            ,L. limosa                      ,N
+Hudsonian Godwit               ,L. haemastica
+Marbled Godwit                 ,L. fedoa
+Ruddy Turnstone                ,Arenaria interpres
+Red Knot                       ,Calidris canutus
+Ruff                           ,C. pugnax                      ,N
+Broad-billed Sandpiper         ,C. falcinellus                 ,N
+Sharp-tailed Sandpiper         ,C. acuminata                   ,N
+Stilt Sandpiper                ,C. himantopus
+Curlew Sandpiper               ,C. ferruginea                  ,N
+Red-necked Stint               ,C. ruficollis                  ,N
+Sanderling                     ,C. alba
+Dunlin                         ,C. alpina
+Purple Sandpiper               ,C. maritima
+Baird's Sandpiper              ,C. bairdii                     ,S
+Little Stint                   ,C. minuta                      ,N
+Least Sandpiper                ,C. minutilla
+White-rumped Sandpiper         ,C. fuscicollis
+Buff-breasted Sandpiper        ,C. subruficollis
+Pectoral Sandpiper             ,C. melanotos
+Semipalmated Sandpiper         ,C. pusilla
+Western Sandpiper              ,C. mauri                       ,S;U
+Short-billed Dowitcher         ,Limnodromus griseus
+Long-billed Dowitcher          ,L. scolopaceus
+American Woodcock              ,Scolopax minor                 ,                                  ,*
+Wilson's Snipe                 ,Gallinago delicata             ,                                  ,*
+Spotted Sandpiper              ,Actitis macularius             ,                                  ,*
+Solitary Sandpiper             ,Tringa solitaria
+Lesser Yellowlegs              ,T. flavipes
+Willet                         ,T. semipalmata                 ,                                  ,*
+Spotted Redshank               ,T. erythropus                  ,N
+Greater Yellowlegs             ,T. melanoleuca
+Wood Sandpiper                 ,T. glareola                    ,N
+Wilson's Phalarope             ,Phalaropus tricolor            ,                                  ,*
+Red-necked Phalarope           ,P. lobatus
+Red Phalarope                  ,P. fulicarius
+Great Skua                     ,Stercorarius skua              ,N
+South Polar Skua               ,S. maccormicki                 ,N
+Pomarine Jaeger                ,S. pomarinus
+Parasitic Jaeger               ,S. parasiticus
+Long-tailed Jaeger             ,S. longicaudus                 ,P
+Dovekie                        ,Alle alle                      ,U
+Common Murre                   ,Uria aalge                     ,P
+Thick-billed Murre             ,U. lomvia                      ,N
+Razorbill                      ,Alca torda                     ,U
+Black Guillemot                ,Cepphus grylle                 ,U
+Long-billed Murrelet           ,Brachyramphus perdix           ,N
+Ancient Murrelet               ,Synthliboramphus antiquus      ,N
+Atlantic Puffin                ,Fratercula arctica             ,N
+Black-legged Kittiwake         ,Rissa tridactyla
+Ivory Gull                     ,Pagophila eburnea              ,N
+Sabine's Gull                  ,Xema sabini                    ,S; D
+Bonaparte's Gull               ,Chroicocephalusphiladelphia
+Gray-hooded Gull               ,C. cirrocephalus               ,N
+Black-headed Gull              ,C.ridibundus
+Little Gull                    ,Hydrocoloeus
+Ross's Gull                    ,Rhodostethia rosea             ,N
+Laughing Gull                  ,Leucophaeus atricilla          ,                                  ,*
+Franklin's Gull                ,L. pipixcan                    ,D
+Black-tailed Gull              ,Larus crassirostris            ,N
+Mew Gull                       ,L. canus                       ,N
+Ring-billed Gull               ,L. delawarensis                ,                                  ,*
+Western Gull                   ,L. occidentalis                ,N
+California Gull                ,L. californicus                ,N
+Herring Gull                   ,L. argentatus                  ,                                  ,*
+Iceland Gull                   ,L. glaucoides
+Lesser Black-backed Gull       ,L. fuscus
+Slaty-backed Gull              ,L. schistisagus                ,N
+Glaucous Gull                  ,L. hyperboreus
+Great Black-backed Gull        ,L. marinus                     ,                                  ,*
+Sooty Tern                     ,Onychoprion fuscatus           ,N
+Bridled Tern                   ,O. anaethetus                  ,N
+Least Tern                     ,Sternula antillarum            ,U                                 ,*
+Gull-billed Tern               ,Gelochelidon nilotica          ,U                                 ,*
+Caspian Tern                   ,Hydroprogne caspia             ,                                  ,*
+Black Tern                     ,Chlidonias niger               ,                                  ,*
+White-winged Tern              ,C. leucopterus                 ,N                                 ,*
+Roseate Tern                   ,Sterna dougallii               ,U                                 ,*
+Common Tern                    ,S. hirundo                     ,                                  ,*
+Arctic Tern                    ,S. paradisaea                  ,N; Excluding Cupsogue County Park
+Forster's Tern                 ,S. forsteri                    ,                                  ,*
+Royal Tern                     ,Thalasseus maximus             ,U
+Sandwich Tern                  ,T. sandvicensis                ,N
+Elegant Tern                   ,T. elegans                     ,N
+Black Skimmer                  ,Rynchops niger                 ,U                                 ,*
+White-tailed Tropicbird        ,Phaethon lepturus              ,N
+Red-billed Tropicbird          ,P. aethereus                   ,N
+Red-throated Loon              ,Gavia stellata
+Pacific Loon                   ,G. pacifica                    ,N
+Common Loon                    ,G. immer                       ,                                  ,*
+Yellow-billed Loon             ,G. adamsii                     ,N
+Yellow-nosed Albatross         ,Thalassarche chlororhynchos    ,N
+Wilson's Storm-Petrel          ,Oceanites oceanicus            ,U
+White-faced Storm-Petrel       ,Pelagodroma marina             ,N
+Leach's Storm-Petrel           ,Hydrobates leucorhous          ,P
+Band-rumped Storm-Petrel       ,H. castro                      ,N
+Northern Fulmar                ,Fulmarus glacialis             ,U
+Trindade Petrel                ,Pterodroma arminjoniana        ,N
+Mottled Petrel                 ,P. inexpectata                 ,N
+Black-capped Petrel            ,P. hasitata                    ,N
+Fea's Petrel                   ,P. feae                        ,N
+Cory's Shearwater              ,Calonectris diomedea           ,U
+Sooty Shearwater               ,Ardenna grisea                 ,U
+Great Shearwater               ,A. gravis                      ,U
+Manx Shearwater                ,Puffinus puffinus              ,U
+Audubon's Shearwater           ,P. lherminieri                 ,P
+Wood Stork                     ,Mycteria americana             ,N
+Magnificent Frigatebird        ,Fregata magnificens            ,N
+Brown Booby                    ,Sula leucogaster               ,N
+Northern Gannet                ,Morus bassanus
+Anhinga                        ,Anhinga anhinga                ,N
+Great Cormorant                ,Phalacrocorax carbo
+Double-crested Cormorant       ,P. auritus                     ,                                  ,*
+Neotropic Cormorant            ,P. brasilianus                 ,N
+American White Pelican         ,Pelecanus erythrorhynchos
+Brown Pelican                  ,P. occidentalis                ,U
+American Bittern               ,Botaurus lentiginosus          ,                                  ,*
+Least Bittern                  ,Ixobrychus exilis              ,                                  ,*
+Great Blue Heron               ,Ardea herodias                 ,                                  ,*
+Great Egret                    ,A. alba                        ,                                  ,*
+Little Egret                   ,Egretta garzetta               ,N
+Western Reef-Heron             ,Egretta gularis                ,N
+Snowy Egret                    ,E. thula                       ,                                  ,*
+Little Blue Heron              ,E. caerulea                    ,                                  ,*
+Tricolored Heron               ,E. tricolor                    ,U                                 ,*
+Reddish Egret                  ,E. rufescens                   ,N
+Cattle Egret                   ,Bubulcus ibis                  ,                                  ,*
+Green Heron                    ,Butorides virescens            ,                                  ,*
+Black-crowned Night-Heron      ,Nycticorax nycticorax          ,                                  ,*
+Yellow-crowned Night-Heron     ,Nyctanassa violacea            ,                                  ,*
+White Ibis                     ,Eudocimus albus                ,N
+Glossy Ibis                    ,Plegadis falcinellus           ,                                  ,*
+White-faced Ibis               ,P. chihi                       ,N
+Roseate Spoonbill              ,Platalea ajaja                 ,N
+Black Vulture                  ,Coragyps atratus               ,                                  ,*
+Turkey Vulture                 ,Cathartes aura                 ,                                  ,*
+Osprey                         ,Pandion haliaetus              ,                                  ,*
+White-tailed Kite              ,Elanus leucurus                ,N
+Swallow-tailed Kite            ,Elanoides forficatus           ,N
+Golden Eagle                   ,Aquila chrysaetos              ,                                  ,*
+Northern Harrier               ,Circus hudsonius               ,                                  ,*
+Sharp-shinned Hawk             ,Accipiter striatus             ,                                  ,*
+Cooper's Hawk                  ,A. cooperii                    ,                                  ,*
+Northern Goshawk               ,A. gentilis                    ,                                  ,*
+Bald Eagle                     ,Haliaeetus leucocephalus       ,                                  ,*
+Mississippi Kite               ,Ictinia mississippiensis       ,N                                 ,*
+Red-shouldered Hawk            ,Buteo lineatus                 ,                                  ,*
+Broad-winged Hawk              ,B. platypterus                 ,                                  ,*
+Swainson's Hawk                ,B. swainsoni                   ,N
+Red-tailed Hawk                ,B. jamaicensis                 ,                                  ,*
+Rough-legged Hawk              ,B. lagopus
+Barn Owl                       ,Tyto alba                      ,                                  ,*
+Eastern Screech-Owl            ,Megascops asio                 ,                                  ,*
+Great Horned Owl               ,Bubo virginianus               ,                                  ,*
+Snowy Owl                      ,B. scandiacus
+Northern Hawk Owl              ,Surnia ulula                   ,N
+Burrowing Owl                  ,Athene cunicularia             ,N
+Barred Owl                     ,Strix varia                    ,                                  ,*
+Great Gray Owl                 ,S. nebulosa                    ,N
+Long-eared Owl                 ,Asio otus                      ,                                  ,*
+Short-eared Owl                ,A. flammeus                    ,                                  ,*
+Boreal Owl                     ,Aegolius funereus              ,N
+Northern Saw-whet Owl          ,A. acadicus                    ,                                  ,*
+Belted Kingfisher              ,Megaceryle alcyon              ,                                  ,*
+Lewis's Woodpecker             ,Melanerpes lewis               ,N
+Red-headed Woodpecker          ,M. erythrocephalus             ,                                  ,*
+Red-bellied Woodpecker         ,M. carolinus                   ,                                  ,*
+Williamson's Sapsucker         ,Sphyrapicus thyroideus         ,N
+Yellow-bellied Sapsucker       ,S. varius                      ,                                  ,*
+American Three-toed Woodpecker ,Picoides dorsalis              ,N                                 ,*
+Black-backed Woodpecker        ,P. arcticus                    ,A                                 ,*
+Downy Woodpecker               ,Dryobates pubescens            ,                                  ,*
+Hairy Woodpecker               ,D. villosus                    ,                                  ,*
+Northern Flicker               ,Colaptes auratus               ,                                  ,*
+Pileated Woodpecker            ,Dryocopus pileatus             ,                                  ,*
+Crested Caracara               ,Caracara cheriway              ,N
+American Kestrel               ,Falco sparverius               ,                                  ,*
+Merlin                         ,F. columbarius                 ,                                  ,*
+Gyrfalcon                      ,F. rusticolus                  ,N
+Peregrine Falcon               ,F. peregrinus                  ,                                  ,*
+Monk Parakeet                  ,Myiopsitta monachus            ,I                                 ,*
+Ash-throated Flycatcher        ,Myiarchus cinerascens          ,N
+Great Crested Flycatcher       ,M. crinitus                    ,                                  ,*
+Couch's Kingbird               ,Tyrannus couchii               ,N
+Cassin's Kingbird              ,T. vociferans                  ,N
+Western Kingbird               ,T. verticalis                  ,U
+Eastern Kingbird               ,T. tyrannus                    ,                                  ,*
+Gray Kingbird                  ,T. dominicensis                ,N
+Scissor-tailed Flycatcher      ,T. forficatus                  ,N
+Fork-tailed Flycatcher         ,T. savana                      ,N
+Olive-sided Flycatcher         ,Contopus cooperi               ,                                  ,*
+Eastern Wood-Pewee             ,C. virens                      ,                                  ,*
+Yellow-bellied Flycatcher      ,Empidonax flaviventris         ,                                  ,*
+Acadian Flycatcher             ,E. virescens                   ,                                  ,*
+Alder Flycatcher               ,E. alnorum                     ,                                  ,*
+Willow Flycatcher              ,E. traillii                    ,                                  ,*
+Least Flycatcher               ,E. minimus                     ,                                  ,*
+Hammond's Flycatcher           ,E. hammondii                   ,N
+Pacific-slope Flycatcher       ,E. difficilis                  ,N
+Eastern Phoebe                 ,Sayornis phoebe                ,                                  ,*
+Say's Phoebe                   ,S. saya                        ,N
+Vermilion Flycatcher           ,Pyrocephalus rubinus           ,N
+Loggerhead Shrike              ,Lanius ludovicianus            ,N                                 ,*
+Northern Shrike                ,L. borealis
+White-eyed Vireo               ,Vireo griseus                  ,                                  ,*
+Bell's Vireo                   ,V. bellii                      ,N
+Yellow-throated Vireo          ,V. flavifrons                  ,                                  ,*
+Cassin's Vireo                 ,V. cassinii                    ,N
+Blue-headed Vireo              ,V. solitarius                  ,                                  ,*
+Philadelphia Vireo             ,V. philadelphicus              ,                                  ,*
+Warbling Vireo                 ,V. gilvus                      ,                                  ,*
+Red-eyed Vireo                 ,V. olivaceus                   ,                                  ,*
+Canada Jay                     ,Perisoreus canadensis          ,A                                 ,*
+Blue Jay                       ,Cyanocitta cristata            ,                                  ,*
+Black-billed Magpie            ,Pica hudsonia                  ,N
+American Crow                  ,Corvus brachyrhynchos          ,                                  ,*
+Fish Crow                      ,C. ossifragus                  ,                                  ,*
+Common Raven                   ,C. corax                       ,                                  ,*
+Eurasian Skylark               ,Alauda arvensis                ,IE                                ,*
+Horned Lark                    ,Eremophila alpestris           ,                                  ,*
+Bank Swallow                   ,Riparia riparia                ,                                  ,*
+Tree Swallow                   ,Tachycineta bicolor            ,                                  ,*
+Northern Rough-winged Swallow  ,Stelgidopteryx serripennis     ,                                  ,*
+Purple Martin                  ,Progne subis                   ,                                  ,*
+Barn Swallow                   ,Hirundo rustica                ,                                  ,*
+Cliff Swallow                  ,Petrochelidon pyrrhonota       ,                                  ,*
+Cave Swallow                   ,P. fulva                       ,N
+Black-capped Chickadee         ,Poecile atricapillus           ,                                  ,*
+Boreal Chickadee               ,P. hudsonicus                  ,                                  ,*
+Tufted Titmouse                ,Baeolophus bicolor             ,                                  ,*
+Red-breasted Nuthatch          ,Sitta canadensis               ,                                  ,*
+White-breasted Nuthatch        ,S. carolinensis                ,                                  ,*
+Brown-headed Nuthatch          ,S. pusilla                     ,N
+Brown Creeper                  ,Certhia americana              ,                                  ,*
+Rock Wren                      ,Salpinctes obsoletus           ,N
+House Wren                     ,Troglodytes aedon              ,                                  ,*
+Winter Wren                    ,T. hiemalis                    ,                                  ,*
+Sedge Wren                     ,Cistothorus platensis          ,                                  ,*
+Marsh Wren                     ,C. palustris                   ,                                  ,*
+Carolina Wren                  ,Thryothorus ludovicianus       ,                                  ,*
+Bewick's Wren                  ,Thryomanes bewickii            ,N                                 ,*
+Blue-gray Gnatcatcher          ,Polioptila caerulea            ,                                  ,*
+Golden-crowned Kinglet         ,Regulus satrapa                ,                                  ,*
+Ruby-crowned Kinglet           ,R. calendula                   ,                                  ,*
+Northern Wheatear              ,Oenanthe oenanthe              ,N
+Eastern Bluebird               ,Sialia sialis                  ,                                  ,*
+Mountain Bluebird              ,S. currucoides                 ,N
+Townsend's Solitaire           ,Myadestes townsendi            ,N
+Veery                          ,Catharus fuscescens            ,                                  ,*
+Gray-cheeked Thrush            ,C. minimus
+Bicknell's Thrush              ,C. bicknelli                   ,N outside known breeding area     ,*
+Swainson's Thrush              ,C. ustulatus                   ,                                  ,*
+Hermit Thrush                  ,C. guttatus                    ,                                  ,*
+Wood Thrush                    ,Hylocichla mustelina           ,                                  ,*
+Fieldfare                      ,Turdus pilaris                 ,N
+Redwing                        ,T. iliacus                     ,N
+American Robin                 ,T. migratorius                 ,                                  ,*
+Varied Thrush                  ,Ixoreus naevius                ,N
+Gray Catbird                   ,Dumetella carolinensis         ,                                  ,*
+Brown Thrasher                 ,Toxostoma rufum                ,                                  ,*
+Sage Thrasher                  ,Oreoscoptes montanus           ,N
+Northern Mockingbird           ,Mimus polyglottos              ,                                  ,*
+European Starling              ,Sturnus vulgaris               ,I                                 ,*
+Bohemian Waxwing               ,Bombycilla garrulus
+Cedar Waxwing                  ,B. cedrorum                    ,                                  ,*
+House Sparrow                  ,Passer domesticus              ,I                                 ,*
+'Yellow' Wagtail               ,Motacilla tschutschensis/flava ,N
+American Pipit                 ,Anthus rubescens
+Brambling                      ,Fringilla montifringilla       ,N
+Evening Grosbeak               ,Coccothraustes vespertinus     ,                                  ,*
+Pine Grosbeak                  ,Pinicola enucleator
+Gray-crowned Rosy-Finch        ,Leucosticte tephrocotis        ,N
+House Finch                    ,Haemorhous mexicanus           ,I                                 ,*
+Purple Finch                   ,H. purpureus                   ,                                  ,*
+Common Redpoll                 ,Acanthis flammea
+Hoary Redpoll                  ,A. hornemanni                  ,D
+Red Crossbill                  ,Loxia curvirostra              ,                                  ,*
+White-winged Crossbill         ,L. leucoptera                  ,                                  ,*
+European Goldfinch             ,Carduelis carduelis            ,IE                                ,*
+Pine Siskin                    ,Spinus pinus                   ,                                  ,*
+American Goldfinch             ,S. tristis                     ,                                  ,*
+Lapland Longspur               ,Calcarius lapponicus
+Chestnut-collared Longspur     ,C. ornatus                     ,N
+Smith's Longspur               ,C. pictus                      ,N
+Snow Bunting                   ,Plectrophenax nivalis
+Cassin's Sparrow               ,Peucaea cassinii               ,N
+Bachman's Sparrow              ,P. aestivalis                  ,N
+Grasshopper Sparrow            ,Ammodramus savannarum          ,                                  ,*
+Lark Sparrow                   ,Chondestes grammacus           ,U
+Lark Bunting                   ,Calamospiza melanocorys        ,N
+Chipping Sparrow               ,Spizella passerina             ,                                  ,*
+Clay-colored Sparrow           ,S. pallida                     ,                                  ,*
+Field Sparrow                  ,S. pusilla                     ,                                  ,*
+Fox Sparrow                    ,Passerella iliaca
+American Tree Sparrow          ,Spizelloides arborea
+Dark-eyed Junco                ,Junco hyemalis                 ,                                  ,*
+White-crowned Sparrow          ,Z. leucophrys
+Golden-crowned Sparrow         ,Z. atricapilla                 ,N
+Harris's Sparrow               ,Z. querula                     ,N
+White-throated Sparrow         ,Zonotrichia albicollis         ,                                  ,*
+Vesper Sparrow                 ,Pooecetes gramineus            ,                                  ,*
+LeConte's Sparrow              ,Ammospiza leconteii            ,N
+Seaside Sparrow                ,A. maritima                    ,U                                 ,*
+Nelson's Sparrow               ,A. nelsoni
+Saltmarsh Sparrow              ,A. caudacuta                   ,U                                 ,*
+Baird's Sparrow                ,Centronix bairdii              ,N
+Henslow's Sparrow              ,C. henslowii                   ,                                  ,*
+Savannah Sparrow               ,Passerculus sandwichensis      ,                                  ,*
+Song Sparrow                   ,Melospiza melodia              ,                                  ,*
+Lincoln's Sparrow              ,M. lincolnii                   ,                                  ,*
+Swamp Sparrow                  ,M. georgiana                   ,                                  ,*
+Green-tailed Towhee            ,Pipilo chlorurus               ,N
+Spotted Towhee                 ,P. maculatus                   ,N
+Eastern Towhee                 ,P. erythrophthalmus            ,                                  ,*
+Yellow-breasted Chat           ,Icteria virens                 ,                                  ,*
+Yellow-headed Blackbird        ,Xanthocephalus xanthocephalus
+Bobolink                       ,Dolichonyx oryzivorus          ,                                  ,*
+Eastern Meadowlark             ,Sturnella magna                ,                                  ,*
+Western Meadowlark             ,S. neglecta                    ,N                                 ,*
+Orchard Oriole                 ,Icterus spurius                ,                                  ,*
+Bullock's Oriole               ,I. bullockii                   ,N
+Baltimore Oriole               ,I. galbula                     ,                                  ,*
+Scott's Oriole                 ,I. parisorum                   ,N
+Red-winged Blackbird           ,Agelaius phoeniceus            ,                                  ,*
+Bronzed Cowbird                ,Molothrus aeneus               ,N
+Brown-headed Cowbird           ,M. ater                        ,                                  ,*
+Rusty Blackbird                ,Euphagus carolinus             ,                                  ,*
+Brewer's Blackbird             ,E. cyanocephalus               ,N
+Common Grackle                 ,Quiscalus quiscula             ,                                  ,*
+Boat-tailed Grackle            ,Q. major                       ,U                                 ,*
+Ovenbird                       ,Seiurus aurocapilla            ,                                  ,*
+Worm-eating Warbler            ,Helmitheros vermivorum         ,                                  ,*
+Louisiana Waterthrush          ,Parkesia motacilla             ,                                  ,*
+Northern Waterthrush           ,P. noveboracensis              ,                                  ,*
+Golden-winged Warbler          ,Vermivora chrysoptera          ,                                  ,*
+Blue-winged Warbler            ,V. cyanoptera                  ,                                  ,*
+Black-and-white Warbler        ,Mniotilta varia                ,                                  ,*
+Prothonotary Warbler           ,Protonotaria citrea            ,                                  ,*
+Swainson's Warbler             ,Limnothlypis swainsonii        ,N
+Tennessee Warbler              ,Leiothlypis peregrina          ,                                  ,*
+Orange-crowned Warbler         ,L. celata
+Nashville Warbler              ,L. ruficapilla                 ,                                  ,*
+Virginia's Warbler             ,L. virginiae                   ,N
+Connecticut Warbler            ,Oporornis agilis
+MacGillivray's Warbler         ,Geothlypis tolmiei             ,N
+Mourning Warbler               ,G. philadelphia                ,                                  ,*
+Kentucky Warbler               ,G. formosa                     ,                                  ,*
+Common Yellowthroat            ,G. trichas                     ,                                  ,*
+Hooded Warbler                 ,Setophaga citrina              ,                                  ,*
+American Redstart              ,S. ruticilla                   ,                                  ,*
+Kirtland's Warbler             ,S. kirtlandii                  ,N
+Cape May Warbler               ,S. tigrina                     ,                                  ,*
+Cerulean Warbler               ,S. cerulea                     ,                                  ,*
+Northern Parula                ,S. americana                   ,                                  ,*
+Magnolia Warbler               ,S. magnolia                    ,                                  ,*
+Bay-breasted Warbler           ,S. castanea                    ,                                  ,*
+Blackburnian Warbler           ,S. fusca                       ,                                  ,*
+Yellow Warbler                 ,S. petechia                    ,                                  ,*
+Chestnut-sided Warbler         ,S. pensylvanica                ,                                  ,*
+Blackpoll Warbler              ,S. striata                     ,                                  ,*
+Black-throated Blue Warbler    ,S. caerulescens                ,                                  ,*
+Palm Warbler                   ,S. palmarum                    ,                                  ,*
+Pine Warbler                   ,S. pinus                       ,                                  ,*
+Yellow-rumped Warbler          ,S. coronata                    ,                                  ,*
+Yellow-throated Warbler        ,S. dominica                    ,                                  ,*
+Prairie Warbler                ,S. discolor                    ,                                  ,*
+Grace's Warbler                ,S. graciae                     ,N
+Black-throated Gray Warbler    ,S. nigrescens                  ,N
+Townsend's Warbler             ,S. townsendi                   ,N
+Hermit Warbler                 ,S. occidentalis                ,N
+Black-throated Green Warbler   ,S. virens                      ,                                  ,*
+Canada Warbler                 ,Cardellina canadensis          ,                                  ,*
+Wilson's Warbler               ,C. pusilla                     ,                                  ,*
+Painted Redstart               ,Myioborus pictus               ,N
+Summer Tanager                 ,Piranga rubra                  ,U                                 ,*
+Scarlet Tanager                ,P. olivacea                    ,                                  ,*
+Western Tanager                ,P. ludoviciana                 ,N
+Northern Cardinal              ,Cardinalis cardinalis          ,                                  ,*
+Rose-breasted Grosbeak         ,Pheucticus ludovicianus        ,                                  ,*
+Black-headed Grosbeak          ,P. melanocephalus              ,N
+Blue Grosbeak                  ,Passerina caerulea             ,U                                 ,*
+Lazuli Bunting                 ,P. amoena                      ,N
+Indigo Bunting                 ,P. cyanea                      ,                                  ,*
+Painted Bunting                ,P. ciris                       ,N
+Dickcissel                     ,Spiza americana                ,                                  ,*
